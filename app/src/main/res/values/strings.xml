@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UK Football News</string>
+
+    <string name="no_news_found">No news articles found.</string>
+
+    <string name="no_internet">No internet connection.</string>
+
+    <string name="bad_response_code">There was a problem with the response from the server.</string>
+
+</resources>
